@@ -1,0 +1,8 @@
+.RowCategory {
+	background-color: aliceblue;
+	padding: 5px 2px;
+}
+
+.RowCategory:hover {
+	cursor: pointer;
+}
